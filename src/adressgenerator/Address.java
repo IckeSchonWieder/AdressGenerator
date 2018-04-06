@@ -15,6 +15,7 @@ public class Address implements AdressInterface{
     private String plz;
     private String strasse;
     private String email;
+    private int halloHomo;
    
     /*
     * Minimaler Konstruktor
